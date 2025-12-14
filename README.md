@@ -1,5 +1,5 @@
 # DeCHUD: Gated DeAOT for Video Object Segmentation
-**ECE 4715 Final Project | Paper Implementation**
+**ECE 4990 Final Project**
 
 > **Abstract:** This repository implements the experiments from our paper: *"Deformable Attention Object Tracking (DeAOT) variants evaluated on YouTube-VOS 2019."* We introduce a **Gated Global Propagation Memory (GPM)** that achieves a **+3.1% improvement** over the baseline by adaptively fusing visual and identity embeddings.
 
