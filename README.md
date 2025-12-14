@@ -12,7 +12,7 @@ This repository contains the code for the three variants discussed in our paper:
 | :--- | :--- | :--- | :--- |
 | **1. Baseline Control** | Sec IV | Standard DeAOT with fixed summation fusion. | `variants/1_baseline_control/` |
 | **2. Gated GPM (Ours)** | **Sec V** | **(Main Branch)** Uses learnable sigmoid gating for feature fusion. **Best Performance.** | `networks/layers/transformer.py` |
-| **3. Loss-Modified** | Sec VI | Adds Temporal Consistency Loss ($L_{gpm}$) to regularize gating. | `variants/3_loss_modified/` |
+| **3. Loss-Modified** | Sec VI | Adds Temporal Consistency Loss ($L_{gpm}$) to regularize gating. | `variants/3_loss_modified/loss.py` |
 
 ---
 
