@@ -62,7 +62,7 @@ pip install scikit-image opencv-python tqdm
 
 ## Dataset Setup
 
-### YouTube-VOS 2019 (Not Included)
+### YouTube-VOS 2019 ([Download Here](https://youtube-vos.org/dataset/))
 
 ```
 datasets/
