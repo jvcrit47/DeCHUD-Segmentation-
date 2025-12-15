@@ -1,6 +1,8 @@
 # DeCHUD: Gated DeAOT for Video Object Segmentation
 
-**ECE 4990 Final Project**
+**ECE 4990 Final Project** 
+
+DeCHUD - Decoupled Cross-gated Hierarchical Unified Dual-branch
 
 > **Abstract:** This repository implements the experiments from our paper:
 > *"A Detailed Study of DeAOT Enhancements via Gated Global Propagation Memory and Loss Function Modifications."*
